@@ -42,7 +42,7 @@ const Header = () => {
                 </NavLink>
               </li>
             </ul>
-            <NavLink className="navbar-brand mx-auto fw-bold" to="/">
+            <NavLink className="navbar-brand  fw-bold" to="/">
               iPLANET
             </NavLink>
             <CartBtn />

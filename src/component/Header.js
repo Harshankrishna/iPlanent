@@ -1,8 +1,8 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 import CartBtn from "./buttons/CartBtn";
-import Login from "./buttons/Login";
-import Signup from "./buttons/Signup";
+// import Login from "./buttons/Login";
+// import Signup from "./buttons/Signup";
 
 const Header = () => {
   return (
@@ -46,8 +46,8 @@ const Header = () => {
             <NavLink className="navbar-brand mx-auto fw-bold" to="/">
               iPLANET
             </NavLink>
-            <Login />
-            <Signup />
+            // <Login />
+            // <Signup />
             <CartBtn />
           </div>
         </div>

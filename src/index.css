@@ -19,6 +19,8 @@ code {
 .navbar-brand {
   letter-spacing: 3px;
   font-size: 30px;
+  margin-right: 550px;
+  align-items: center;
 }
 
 /* Card */
